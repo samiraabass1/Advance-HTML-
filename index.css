@@ -1,11 +1,11 @@
 body {
-  background-image: url("https://images3.alphacoders.com/823/thumb-1920-82317.jpg"); 
+  background-image: url("http://www.fjords.com/wp-content/uploads/2018/09/DSC_1761-2000x1200.jpg"); 
   /* The image used */
   background-color: #cccccc; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+
 }
 h1{ color: red; 
   font-family: 'Satisfy', cursive;
@@ -26,8 +26,7 @@ li { color: coral;
   padding:20px;
   width:399px;
    text-align:center;
-  font-size: 200%;
+  font-size: 150%;
   
 }  
-
     
